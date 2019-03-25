@@ -1,0 +1,2 @@
+# FlutterModuleInAndroidProject
+改项目只是一个demo，是将flutter-module 插入到Android原生项目中的demo
