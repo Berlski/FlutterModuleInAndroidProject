@@ -154,7 +154,10 @@ xcuserdata
 Icon?
 .tags*
 
-
+build/
+.android/
+.ios/
+.flutter-plugins
 
 
 
