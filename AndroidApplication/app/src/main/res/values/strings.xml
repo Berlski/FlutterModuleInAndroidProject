@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">AndroidApplication</string>
+
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">资源池</string>
+    <string name="title_notifications">我的</string>
+    <string name="start_flutter">开启 flutter 页面</string>
+    <string name="start_new_flutter">开启新 flutter 页面</string>
 </resources>
+
